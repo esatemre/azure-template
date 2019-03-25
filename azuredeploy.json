@@ -128,7 +128,7 @@
       "tags": {
         "displayName": "Gen2 Enabled Storage",
         "Company": "[parameters('company')]",
-        "Environment": "[parameters('environment')]",
+        "Environment": "[parameters('environment')]"
       },
       "properties": {
         "accessTier": "Hot",
